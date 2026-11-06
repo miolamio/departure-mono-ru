@@ -1,0 +1,918 @@
+{
+  "source": "public/assets/DepartureMono-Regular.otf",
+  "sha256": "4d53f663155cf8bf7ffc8e688776e719625f7bbb80a8d90073438b249261a2e0",
+  "version": "Version 1.500;Glyphs 3.3.1 (3343)",
+  "glyph_count": 1186,
+  "encoded_characters": 1079,
+  "cyrillic_0400_052F": 216,
+  "russian_letters": 66,
+  "upm": 550,
+  "advance": 350,
+  "grid": 50,
+  "x_height": 300,
+  "cap_height": 400,
+  "hhea_ascent": 550,
+  "hhea_descent": -150,
+  "glyphs": [
+    {
+      "character": "А",
+      "codepoint": "U+0410",
+      "glyph": "uni0410",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Б",
+      "codepoint": "U+0411",
+      "glyph": "uni0411",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "В",
+      "codepoint": "U+0412",
+      "glyph": "uni0412",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Г",
+      "codepoint": "U+0413",
+      "glyph": "uni0413",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Д",
+      "codepoint": "U+0414",
+      "glyph": "uni0414",
+      "bounds": [
+        0,
+        -100,
+        350,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Е",
+      "codepoint": "U+0415",
+      "glyph": "uni0415",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ё",
+      "codepoint": "U+0401",
+      "glyph": "uni0401",
+      "bounds": [
+        50,
+        0,
+        300,
+        500
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ж",
+      "codepoint": "U+0416",
+      "glyph": "uni0416",
+      "bounds": [
+        0,
+        0,
+        350,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "З",
+      "codepoint": "U+0417",
+      "glyph": "uni0417",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "И",
+      "codepoint": "U+0418",
+      "glyph": "uni0418",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Й",
+      "codepoint": "U+0419",
+      "glyph": "uni0419",
+      "bounds": [
+        50,
+        0,
+        300,
+        550
+      ],
+      "advance": 350
+    },
+    {
+      "character": "К",
+      "codepoint": "U+041A",
+      "glyph": "uni041A",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Л",
+      "codepoint": "U+041B",
+      "glyph": "uni041B",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "М",
+      "codepoint": "U+041C",
+      "glyph": "uni041C",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Н",
+      "codepoint": "U+041D",
+      "glyph": "uni041D",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "О",
+      "codepoint": "U+041E",
+      "glyph": "uni041E",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "П",
+      "codepoint": "U+041F",
+      "glyph": "uni041F",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Р",
+      "codepoint": "U+0420",
+      "glyph": "uni0420",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "С",
+      "codepoint": "U+0421",
+      "glyph": "uni0421",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Т",
+      "codepoint": "U+0422",
+      "glyph": "uni0422",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "У",
+      "codepoint": "U+0423",
+      "glyph": "uni0423",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ф",
+      "codepoint": "U+0424",
+      "glyph": "uni0424",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Х",
+      "codepoint": "U+0425",
+      "glyph": "uni0425",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ц",
+      "codepoint": "U+0426",
+      "glyph": "uni0426",
+      "bounds": [
+        50,
+        -100,
+        350,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ч",
+      "codepoint": "U+0427",
+      "glyph": "uni0427",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ш",
+      "codepoint": "U+0428",
+      "glyph": "uni0428",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Щ",
+      "codepoint": "U+0429",
+      "glyph": "uni0429",
+      "bounds": [
+        50,
+        -100,
+        350,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ъ",
+      "codepoint": "U+042A",
+      "glyph": "uni042A",
+      "bounds": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ы",
+      "codepoint": "U+042B",
+      "glyph": "uni042B",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ь",
+      "codepoint": "U+042C",
+      "glyph": "uni042C",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Э",
+      "codepoint": "U+042D",
+      "glyph": "uni042D",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Ю",
+      "codepoint": "U+042E",
+      "glyph": "uni042E",
+      "bounds": [
+        50,
+        0,
+        350,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "Я",
+      "codepoint": "U+042F",
+      "glyph": "uni042F",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "а",
+      "codepoint": "U+0430",
+      "glyph": "uni0430",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "б",
+      "codepoint": "U+0431",
+      "glyph": "uni0431",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "в",
+      "codepoint": "U+0432",
+      "glyph": "uni0432",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "г",
+      "codepoint": "U+0433",
+      "glyph": "uni0433",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "д",
+      "codepoint": "U+0434",
+      "glyph": "uni0434",
+      "bounds": [
+        0,
+        -100,
+        350,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "е",
+      "codepoint": "U+0435",
+      "glyph": "uni0435",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ё",
+      "codepoint": "U+0451",
+      "glyph": "uni0451",
+      "bounds": [
+        50,
+        0,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ж",
+      "codepoint": "U+0436",
+      "glyph": "uni0436",
+      "bounds": [
+        0,
+        0,
+        350,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "з",
+      "codepoint": "U+0437",
+      "glyph": "uni0437",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "и",
+      "codepoint": "U+0438",
+      "glyph": "uni0438",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "й",
+      "codepoint": "U+0439",
+      "glyph": "uni0439",
+      "bounds": [
+        50,
+        0,
+        300,
+        450
+      ],
+      "advance": 350
+    },
+    {
+      "character": "к",
+      "codepoint": "U+043A",
+      "glyph": "uni043A",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "л",
+      "codepoint": "U+043B",
+      "glyph": "uni043B",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "м",
+      "codepoint": "U+043C",
+      "glyph": "uni043C",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "н",
+      "codepoint": "U+043D",
+      "glyph": "uni043D",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "о",
+      "codepoint": "U+043E",
+      "glyph": "uni043E",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "п",
+      "codepoint": "U+043F",
+      "glyph": "uni043F",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "р",
+      "codepoint": "U+0440",
+      "glyph": "uni0440",
+      "bounds": [
+        50,
+        -100,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "с",
+      "codepoint": "U+0441",
+      "glyph": "uni0441",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "т",
+      "codepoint": "U+0442",
+      "glyph": "uni0442",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "у",
+      "codepoint": "U+0443",
+      "glyph": "uni0443",
+      "bounds": [
+        50,
+        -100,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ф",
+      "codepoint": "U+0444",
+      "glyph": "uni0444",
+      "bounds": [
+        50,
+        -100,
+        300,
+        400
+      ],
+      "advance": 350
+    },
+    {
+      "character": "х",
+      "codepoint": "U+0445",
+      "glyph": "uni0445",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ц",
+      "codepoint": "U+0446",
+      "glyph": "uni0446",
+      "bounds": [
+        50,
+        -100,
+        350,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ч",
+      "codepoint": "U+0447",
+      "glyph": "uni0447",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ш",
+      "codepoint": "U+0448",
+      "glyph": "uni0448",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "щ",
+      "codepoint": "U+0449",
+      "glyph": "uni0449",
+      "bounds": [
+        50,
+        -100,
+        350,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ъ",
+      "codepoint": "U+044A",
+      "glyph": "uni044A",
+      "bounds": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ы",
+      "codepoint": "U+044B",
+      "glyph": "uni044B",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ь",
+      "codepoint": "U+044C",
+      "glyph": "uni044C",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "э",
+      "codepoint": "U+044D",
+      "glyph": "uni044D",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "ю",
+      "codepoint": "U+044E",
+      "glyph": "uni044E",
+      "bounds": [
+        50,
+        0,
+        350,
+        300
+      ],
+      "advance": 350
+    },
+    {
+      "character": "я",
+      "codepoint": "U+044F",
+      "glyph": "uni044F",
+      "bounds": [
+        50,
+        0,
+        300,
+        300
+      ],
+      "advance": 350
+    }
+  ],
+  "shared_outlines": {
+    "АA": true,
+    "ВB": true,
+    "ЕE": true,
+    "КK": false,
+    "МM": true,
+    "НH": true,
+    "ОO": true,
+    "РP": true,
+    "СC": true,
+    "ТT": true,
+    "ХX": true,
+    "аa": true,
+    "еe": true,
+    "оo": true,
+    "рp": true,
+    "сc": true,
+    "уy": true,
+    "хx": true
+  },
+  "before": [
+    {
+      "glyph": "uni0437",
+      "cluster": 0,
+      "x": 0,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni0430",
+      "cluster": 1,
+      "x": 350,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "acutecomb",
+      "cluster": 1,
+      "x": 700,
+      "y": 0,
+      "advance": 0
+    },
+    {
+      "glyph": "uni043C",
+      "cluster": 3,
+      "x": 700,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni043E",
+      "cluster": 4,
+      "x": 1050,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni043A",
+      "cluster": 5,
+      "x": 1400,
+      "y": 0,
+      "advance": 350
+    }
+  ],
+  "after": [
+    {
+      "glyph": "uni0437",
+      "cluster": 0,
+      "x": 0,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni0430",
+      "cluster": 1,
+      "x": 350,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "acutecomb",
+      "cluster": 1,
+      "x": 350,
+      "y": 0,
+      "advance": 0
+    },
+    {
+      "glyph": "uni043C",
+      "cluster": 3,
+      "x": 700,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni043E",
+      "cluster": 4,
+      "x": 1050,
+      "y": 0,
+      "advance": 350
+    },
+    {
+      "glyph": "uni043A",
+      "cluster": 5,
+      "x": 1400,
+      "y": 0,
+      "advance": 350
+    }
+  ]
+}

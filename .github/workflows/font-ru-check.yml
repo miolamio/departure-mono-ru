@@ -1,0 +1,27 @@
+name: Verify Russian font builds
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned font tools
+        run: python -m pip install fonttools==4.68.0 brotli==1.2.1 uharfbuzz==0.57.0
+      - name: Verify committed fonts and deterministic rebuilds
+        run: python scripts/font_ru.py check
+      - name: Regenerate vector proofs and audit data
+        run: python scripts/font_ru.py proof
+      - name: Check generated files are current
+        run: git diff --exit-code -- docs/proofs/audit.json docs/proofs/russian-specimen.svg docs/proofs/stress-before-after.svg
